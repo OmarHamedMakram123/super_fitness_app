@@ -34,6 +34,11 @@ class AppTextStyles {
     fontSize: 12.sp,
     fontWeight: FontWeight.w500,
   );
+  static TextStyle font12w700 = GoogleFonts.balooThambi2(
+    fontSize: 12.sp,
+    fontWeight: FontWeight.w700,
+    color: AppColors.kWhiteBase
+  );
 
   static TextStyle font18Medium = GoogleFonts.balooThambi2(
     fontSize: 18.sp,
@@ -109,6 +114,11 @@ class AppTextStyles {
     fontWeight: FontWeight.w800,
     color: AppColors.kWhiteBase,
   );
+  static TextStyle font14w400 = GoogleFonts.balooThambi2(
+    fontSize: 14.sp,
+    fontWeight: FontWeight.w400,
+    color: AppColors.kWhiteBase,
+  );
 
   static TextStyle font16w400 = GoogleFonts.balooThambi2(
     fontSize: 16.sp,
@@ -147,6 +157,11 @@ class AppTextStyles {
   static TextStyle font12W700 = GoogleFonts.balooThambi2(
     fontSize: 12.sp,
     fontWeight: FontWeight.w700,
+    color: AppColors.kWhiteBase,
+  );
+  static TextStyle font18W500 = GoogleFonts.balooThambi2(
+    fontSize: 18.sp,
+    fontWeight: FontWeight.w500,
     color: AppColors.kWhiteBase,
   );
 }

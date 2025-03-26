@@ -74,10 +74,13 @@
   "logoutMessage": "هل أنت متأكد من إغلاق التطبيق؟",
   "yes": "نعم",
   "no": "لا",
+  "thisHelpsUsCreate": "هذا يساعدنا في إنشاء خطتك الشخصية.",
   "categories": "الفئات",
   "recommendationForYou": "توصيات لك",
   "seeAll": "عرض الكل",
   "recommendationOfTheDay": "توصية اليوم",
-  "upcomingWorkouts": "التمارين القادمة"
-
+  "upcomingWorkouts": "التمارين القادمة",
+  "beginner": "مبتدئ",
+  "intermediate": "متوسط",
+  "advanced": "متقدم"
 }
